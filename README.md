@@ -18,13 +18,15 @@ I specialize in design work that combines aesthetic excellence with functional u
 
 ## 📁 Featured Projects
 
-### Project 1: [Project Name]
-**Description**: Brief description of the project and your role.
-- **Tools Used**: [List design tools]
+### Project 1: God's Grace Cafe Website
+**Description**: A responsive, modern website for God's Grace Cafe featuring a clean design with navigation, services showcase, and call-to-action elements. Built with HTML5, CSS3, and vanilla JavaScript for optimal performance.
+- **Tools Used**: HTML5, CSS3, JavaScript, Responsive Design
 - **Key Achievements**: 
-  - Achievement 1
-  - Achievement 2
-- **Link**: [Link to project/case study]
+  - Fully responsive design (mobile, tablet, desktop)
+  - Optimized performance with clean code
+  - Accessibility-friendly structure
+  - Modern hamburger menu for mobile navigation
+- **Link**: [View Project](https://github.com/AlphcodeX/AlphcodeX-portfolio/blob/main/projects/gods-grace-cafe.html)
 
 ### Project 2: [Project Name]
 **Description**: Brief description of the project and your role.
@@ -47,7 +49,8 @@ I specialize in design work that combines aesthetic excellence with functional u
 ## 🛠️ Design Tools & Technologies
 
 - **UI/UX**: Figma, Adobe XD, Sketch
-- **Graphics**: Adobe Photoshop, Adobe Illustrator, Affinity Designer
+- **Web Development**: HTML5, CSS3, JavaScript, Responsive Design
+- **Graphics**: Adobe Photoshop, Adobe Illustrator, Affinity Designer, Corel Draw, Canva
 - **Prototyping**: Figma, Framer, Principle
 - **Other**: InVision, Miro, Adobe Creative Suite
 
@@ -67,7 +70,7 @@ I specialize in design work that combines aesthetic excellence with functional u
 
 | Project | Year | Type | Status |
 |---------|------|------|--------|
-| [Project Name] | 2024 | UI/UX | Completed |
+| God's Grace Cafe Website | 2026 | Web Design & Development | Completed |
 | [Project Name] | 2024 | Branding | Completed |
 | [Project Name] | 2023 | Design System | Active |
 
@@ -77,7 +80,7 @@ I specialize in design work that combines aesthetic excellence with functional u
 
 Dive deeper into my design process and outcomes:
 
-1. **[Case Study Title]** - [Brief overview and link]
+1. **God's Grace Cafe** - Responsive website design and optimization
 2. **[Case Study Title]** - [Brief overview and link]
 3. **[Case Study Title]** - [Brief overview and link]
 
@@ -91,6 +94,8 @@ Dive deeper into my design process and outcomes:
 - Color Theory & Accessibility
 - Design Thinking & Problem Solving
 - Collaboration & Communication
+- HTML5 & CSS3
+- JavaScript & Responsive Web Design
 
 ---
 
